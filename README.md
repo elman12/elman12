@@ -1,8 +1,8 @@
 ###  💫 About Me:
 
- 👋 Hello! I'm Elman Sidik, an Informatics Engineering student with a passion for mobile application development. I'm also very enthusiastic about UI/UX design and Frontend development.
+👋 Hello! I'm Elman Sidik, a fresh graduate in Informatics Engineering with a focus on Frontend Development, especially as a Mobile Developer. I'm always eager to learn, grow, and collaborate with other passionate developers. Let’s work together to build something amazing!
 
-🌱 I am always eager to learn, grow, and collaborate with other passionate developers. Let's work together to build something amazing!
+Feel free to tweak it if needed!
 
 
 ### 🌐 Socials:
